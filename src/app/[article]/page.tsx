@@ -34,7 +34,7 @@ export async function generateMetadata({params}:{params:Promise<PageParams>}): P
     const canonical = SITE_CONFIG.origin + SITE_CONFIG.basePath + decodeURIComponent(path.article);
     
     return {
-        title: title(markdown),
+        title: `${title(markdown)} - ${SITE_CONFIG.brand}`,
         description: text(markdown).substring(0, 150),
         robots: "index, follow",
         alternates: {
