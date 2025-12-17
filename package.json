@@ -6,7 +6,8 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "deploy": "gh-pages -d out/notes -t"
   },
   "dependencies": {
     "next": "16.0.10",
@@ -23,6 +24,7 @@
     "@types/react-syntax-highlighter": "^15.5.13",
     "eslint": "^9",
     "eslint-config-next": "16.0.10",
+    "gh-pages": "^6.3.0",
     "typescript": "^5"
   }
 }
