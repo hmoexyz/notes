@@ -1,27 +1,14 @@
 :root {
     --title-color: #00a152;
     --text-color: #212121;
-    --light-text-color: #666666;
-    --lighter-text-color: #888888;
+    --bg-color: #fafafa;
     --link-color: #2196f3;
-    --code-color: #d500f9;
-    --shadow-color: #eee;
-    --border-quote: rgba(116, 95, 181, 0.2);
-    --border-quote-grey: #c8c8c8;
-    --border: #e7e7e7;
-    --link-bottom: #bbb;
-    --shadow: 3px 3px 10px var(--shadow-color);
-    --inline-code-bg: #f4f2f9;
-    --header-weight: normal;
-    --side-bar-bg-color: #fafafa;
-    --control-text-color: var(--light-text-color);
-    --active-file-text-color: var(--title-color);
-    --active-file-bg-color: var(--shadow-color);
-    --item-hover-bg-color: var(--shadow-color);
-    --active-file-border-color: var(--title-color);
-    --base-font: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
-    --title-font: "EB Garamond", "Source Sans Pro", serif;
-    --monospace: Courier, Monospace !important;
+
+    --highlight-color: #9200ac;
+    --highlight-bg-color: #fdeeff;
+
+    --weaken-color: #6d6d6d;
+    --weaken-bg-color: #cecece;
 }
 
 
@@ -151,16 +138,6 @@ ul li {
     padding-left: 0.1rem;
 }
 
-
-/* 引用 */
-
-.markdown blockquote {
-    border-left: 0.3rem solid var(--border-quote);
-    padding-left: 1em;
-    font-family: var(--base-font);
-}
-
-
 /* 表格 */
 
 .markdown table {
@@ -197,6 +174,14 @@ ul li {
 
 /* 代码 */
 .markdown code {
-    color: var(--code-color);
-    background-color: var(--inline-code-bg);
+    color: var(--highlight-color);
+    background-color: var(--highlight-bg-color);
+}
+
+/* 引用块 */
+.markdown blockquote {
+    background-color: var(--highlight-bg-color);
+    border-left: 0.3rem solid var(--highlight-color);
+    padding-left: 1em;
+    font-family: var(--base-font);
 }

@@ -17,13 +17,7 @@ export default function Markdown(props: MarkdownProps) {
                     code({className, children}) {
                         const match = /language-(\w+)/.exec(className || '');
 
-                        if (!match) {
-                            return (
-                                <code className={className}>
-                                    {children}
-                                </code>
-                            )
-                        } else {
+                        if (match) {
                             return (
                                 <SyntaxHighlighter
                                     showLineNumbers
@@ -32,6 +26,21 @@ export default function Markdown(props: MarkdownProps) {
                                 >
                                     {String(children).replace(/\n$/, '')}
                                 </SyntaxHighlighter>
+                            )
+                        } else if(children?.toString().includes('\n')) {
+                            return (
+                                <SyntaxHighlighter
+                                    showLineNumbers
+                                    className={className} 
+                                >
+                                    {String(children).replace(/\n$/, '')}
+                                </SyntaxHighlighter>
+                            )
+                        } else {
+                            return (
+                                <code className={className}>
+                                    {children}
+                                </code>
                             )
                         }
                     }
