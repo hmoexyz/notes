@@ -1,0 +1,202 @@
+:root {
+    --title-color: #00a152;
+    --text-color: #212121;
+    --light-text-color: #666666;
+    --lighter-text-color: #888888;
+    --link-color: #2196f3;
+    --code-color: #d500f9;
+    --shadow-color: #eee;
+    --border-quote: rgba(116, 95, 181, 0.2);
+    --border-quote-grey: #c8c8c8;
+    --border: #e7e7e7;
+    --link-bottom: #bbb;
+    --shadow: 3px 3px 10px var(--shadow-color);
+    --inline-code-bg: #f4f2f9;
+    --header-weight: normal;
+    --side-bar-bg-color: #fafafa;
+    --control-text-color: var(--light-text-color);
+    --active-file-text-color: var(--title-color);
+    --active-file-bg-color: var(--shadow-color);
+    --item-hover-bg-color: var(--shadow-color);
+    --active-file-border-color: var(--title-color);
+    --base-font: "Open Sans", "Clear Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    --title-font: "EB Garamond", "Source Sans Pro", serif;
+    --monospace: Courier, Monospace !important;
+}
+
+
+
+
+
+/* 标题 */
+
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4,
+.markdown h5,
+.markdown h6 {
+    position: relative;
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: var(--header-weight);
+    line-height: 1.3;
+    cursor: text;
+    color: var(--title-color);
+    font-family: var(--title-font);
+}
+
+.markdown h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+    line-height: 1.5;
+}
+
+.markdown h1:after {
+    content: "";
+    display: block;
+    margin: 0.2rem auto 0;
+    width: 6rem;
+    height: 2px;
+    border-bottom: 2px solid var(--title-color);
+}
+
+.markdown h2 {
+    padding-left: 0.4em;
+    border-left: 0.4em solid var(--title-color);
+    border-bottom: 1px solid var(--title-color);
+}
+
+.markdown h1 tt,
+.markdown h1 code {
+    font-size: inherit;
+}
+.markdown h2 tt,
+.markdown h2 code {
+    font-size: inherit;
+}
+.markdown h3 tt,
+.markdown h3 code {
+    font-size: inherit;
+}
+.markdown h4 tt,
+.markdown h4 code {
+    font-size: inherit;
+}
+.markdown h5 tt,
+.markdown h5 code {
+    font-size: inherit;
+}
+.markdown h6 tt,
+.markdown h6 code {
+    font-size: inherit;
+}
+
+.markdown p,
+.markdown blockquote,
+.markdown ul,
+.markdown ol,
+.markdown dl,
+.markdown table {
+    margin: 0.8em 0;
+}
+
+
+/* 水平分割线 */
+
+.markdown hr {
+    margin: 1.5em auto;
+    border-top: 1px solid var(--border);
+}
+
+/* 链接 */
+
+.markdown a {
+    color: var(--link-color);
+    text-decoration: none;
+}
+
+.markdown a:hover {
+    text-decoration: underline;
+}
+
+/* 列表 */
+
+.markdown li>ol,
+.markdown li>ul {
+    margin: 0 0;
+}
+
+.markdown li p.first {
+    display: inline-block;
+}
+
+.markdown ul,
+.markdown ol {
+    padding-left: 2rem;
+}
+
+.markdown ul:first-child,
+.markdown ol:first-child {
+    margin-top: 0;
+}
+
+.markdown ul:last-child,
+.markdown ol:last-child {
+    margin-bottom: 0;
+}
+
+#write ol li,
+ul li {
+    padding-left: 0.1rem;
+}
+
+
+/* 引用 */
+
+.markdown blockquote {
+    border-left: 0.3rem solid var(--border-quote);
+    padding-left: 1em;
+    font-family: var(--base-font);
+}
+
+
+/* 表格 */
+
+.markdown table {
+    margin-bottom: 1.25rem;
+    border-collapse: collapse;
+}
+
+.markdown table th,
+.markdown table td {
+    padding: 8px;
+    line-height: 1.25rem;
+    vertical-align: middle;
+    border: 1px solid #ddd;
+}
+
+.markdown table th {
+    font-weight: bold;
+}
+
+.markdown table thead th {
+    vertical-align: middle;
+}
+
+.markdown table tr:nth-child(2n),
+.markdown thead {
+    background-color: #fcfcfc;
+}
+
+
+/* 图片 */
+.markdown img {
+    max-width: 80%;
+}
+
+/* 代码 */
+.markdown code {
+    color: var(--code-color);
+    background-color: var(--inline-code-bg);
+}
