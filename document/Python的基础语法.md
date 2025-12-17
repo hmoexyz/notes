@@ -1,4 +1,4 @@
-# Python 基础语法详解
+# Python 基础语法
 
 ## 1. 基本输出
 ```python
