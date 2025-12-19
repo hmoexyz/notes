@@ -1,0 +1,6 @@
+:HL["/notes/_next/static/chunks/591fa4c3a0b4b16a.css","style"]
+:HL["/notes/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/notes/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/notes/_next/static/chunks/cfd18c9062a2411d.css","style"]
+:HL["https://interestingengineering.com/_next/image?url=https%3A%2F%2Fcms.interestingengineering.com%2Fwp-content%2Fuploads%2F2025%2F12%2FUntitled-design-2025-12-18T231918.476.jpg&w=1080&q=75","image",{"referrerPolicy":"no-referrer"}]
+0:{"buildId":"pAPssqJQpIawMbcoLwlo0","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"article","paramType":"d","paramKey":"%E5%9B%9E%E5%AE%B6%E8%BF%87%E5%9C%A3%E8%AF%9E%E8%8A%82%EF%BC%9A%E6%8E%A5%E5%8F%97%E5%85%A8%E7%90%83%E9%A6%96%E4%BE%8B%20CRISPR%20%E7%96%97%E6%B3%95%E6%B2%BB%E7%96%97%E7%9A%84%E5%A9%B4%E5%84%BF%E8%BF%88%E5%87%BA%E4%BA%BA%E7%94%9F%E7%AC%AC%E4%B8%80%E6%AD%A5","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}
