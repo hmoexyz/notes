@@ -30,7 +30,7 @@ export async function articles() {
             title: title(await content(file.name)),
         });
     }
-    results.sort((x, y) => y.state.updatedTime.getTime() - x.state.updatedTime.getTime());
+    results.sort((x, y) => y.state.createdTime.getTime() - x.state.createdTime.getTime());
     return results;
 }
 
