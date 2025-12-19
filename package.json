@@ -7,7 +7,8 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint",
-    "deploy": "gh-pages -d out/notes -t"
+    "deploy": "gh-pages -d out/notes -t",
+    "crawl": "tsx tools/crawl.tsx"
   },
   "dependencies": {
     "next": "16.0.10",
@@ -22,9 +23,13 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@types/react-syntax-highlighter": "^15.5.13",
+    "axios": "^1.13.2",
+    "cheerio": "^1.1.2",
     "eslint": "^9",
     "eslint-config-next": "16.0.10",
     "gh-pages": "^6.3.0",
+    "node-html-markdown": "^2.0.0",
+    "tsx": "^4.21.0",
     "typescript": "^5"
   }
 }
