@@ -14,6 +14,10 @@ export default function Markdown(props: MarkdownProps) {
             <ReactMarkdown
                 remarkPlugins={[remarkGfm]}
                 components={{
+                    img({ src }) {
+                        return <img src={src} style={{display:'block', margin:'auto'}} referrerPolicy="no-referrer"/>
+                    },
+
                     code({className, children}) {
                         const match = /language-(\w+)/.exec(className || '');
 
