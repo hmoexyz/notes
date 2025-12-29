@@ -1,3 +1,5 @@
+// 复制：https://github.com/hubenchang0515/primers/blob/master/src/utils/text.ts
+
 // 内容清理，删除 Markdown 语法符号仅保留文本
 export function text(content:string) {
     return content

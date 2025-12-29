@@ -1,3 +1,5 @@
+// 复制：https://github.com/hubenchang0515/primers/blob/master/src/utils/document.ts
+
 import path from "path/posix";
 import fs from 'fs/promises';
 import { execFile } from "child_process";
