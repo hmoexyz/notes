@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"r52EHpBNlZBGwS7RikFaW","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"瑞芯微MPP项目被GitHub封禁 - 在线笔记"}],["$","meta","1",{"name":"description","content":"瑞芯微MPP项目被GitHub封禁\n等待两年之后，FFmpeg 开发者向瑞芯发出 DMCA 下架通知\n转载自：https://www.oschina.net/news/392816 FFmpeg项目官方账号在社交平台发布动态称，在FFmpeg开发者提交DMCA删除请求后，GitHub已禁用瑞芯微电子"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notes瑞芯微MPP项目被GitHub封禁"}]]
