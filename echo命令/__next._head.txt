@@ -2,6 +2,6 @@
 2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"4XkSJI9Ngu8XsnY22kRVe","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"qyKeT3xhJmfaZv9R91wMf","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"echo命令笔记 - 在线笔记"}],["$","meta","1",{"name":"description","content":"echo命令笔记 echo 是 Linux/Unix shell 的一个内建命令（同时也有 /bin/echo 可执行文件），用来 在终端输出文本或变量内容。 它非常基础，但功能灵活，配合转义序列可以打印彩色文字、换行、制表符等。 一、命令格式 bash echo 选项 [选项]：可选，用来控制转义"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notesecho命令"}]]
