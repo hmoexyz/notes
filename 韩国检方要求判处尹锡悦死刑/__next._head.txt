@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"4XkSJI9Ngu8XsnY22kRVe","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"韩国检方要求判处尹锡悦死刑 - 在线笔记"}],["$","meta","1",{"name":"description","content":"韩国检方要求判处尹锡悦死刑 在对前总统尹锡悦涉嫌触犯“内乱罪”的一审结案庭审中，韩国检方要求法院以内乱头目嫌疑判处尹锡悦死刑。 （德国之声中文网）韩国调查紧急戒严令的特别检察官周二（1月13日）要求法庭以涉嫌带头发动“叛乱”为由，判处前总统尹锡悦死刑。法庭周三凌晨宣布2月19日进行一审判决。 检方指"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notes韩国检方要求判处尹锡悦死刑"}]]
