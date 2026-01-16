@@ -3,7 +3,6 @@ import Markdown from "./Markdown";
 import Link from "next/link";
 
 export default async function PageFrame(props:{list:Article[], current:string, content:string}) {
-    console.log(props.current)
     return (
         <div style={{display:'flex', gap:8}}>
             <div style={{minWidth:0, flex:1,position:'relative',borderRight:'1px solid rgba(0,0,0,0.1)'}}>
