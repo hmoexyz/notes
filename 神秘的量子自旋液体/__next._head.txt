@@ -2,6 +2,6 @@
 2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"qvGRrXdn_vImDLmWmy-1E","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"bpIJTNv3n5XDU1nC-Wzaw","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"神秘的量子自旋液体从精确生长的卡戈梅晶体中涌现出来 - 在线笔记"}],["$","meta","1",{"name":"description","content":"神秘的量子自旋液体从精确生长的卡戈梅晶体中涌现出来\r转载自：https://interestingengineering.com/science/quantum-spin-liquids-are-real 研究一种新型卡戈梅材料的研究人员发现了此前所见的奇异自旋行为,指出其在相关晶体之间存在一种共享"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notes神秘的量子自旋液体"}]]

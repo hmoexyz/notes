@@ -1,0 +1,6 @@
+:HL["/notes/_next/static/chunks/261b62bfd33703b9.css","style"]
+:HL["/notes/_next/static/media/797e433ab948586e-s.p.dbea232f.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/notes/_next/static/media/caa3a2e1cccd8315-s.p.853070df.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/notes/_next/static/chunks/cfd18c9062a2411d.css","style"]
+:HL["https://www.cartoondan.com/images/featured/2bit_miner.png","image",{"referrerPolicy":"no-referrer"}]
+0:{"buildId":"bpIJTNv3n5XDU1nC-Wzaw","tree":{"name":"","paramType":null,"paramKey":"","hasRuntimePrefetch":false,"slots":{"children":{"name":"article","paramType":"d","paramKey":"%E9%BB%84%E9%87%91%E7%9F%BF%E5%B7%A5%E6%AD%A3%E7%BB%9F%E7%BB%AD%E4%BD%9C","hasRuntimePrefetch":false,"slots":{"children":{"name":"__PAGE__","paramType":null,"paramKey":"__PAGE__","hasRuntimePrefetch":false,"slots":null,"isRootLayout":false}},"isRootLayout":false}},"isRootLayout":true},"staleTime":300}

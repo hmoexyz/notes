@@ -2,6 +2,6 @@
 2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"qvGRrXdn_vImDLmWmy-1E","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"bpIJTNv3n5XDU1nC-Wzaw","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Python 排序算法 - 在线笔记"}],["$","meta","1",{"name":"description","content":"Python 排序算法\r基本排序算法\r冒泡排序 (Bubble Sort) 冒泡排序是最简单的排序算法之一，它重复地遍历要排序的列表，比较相邻的元素并交换它们的位置。 python def bubblesort(arr): n = len(arr) for i in range(n): # 每次遍历"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notesPython排序算法"}]]
