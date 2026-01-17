@@ -1,6 +1,12 @@
 # 公告
 
-## Python 主要版本安装包下载链接
+## 常用开发工具下载地址
+
+* [Visual Studio Code](https://code.visualstudio.com/sha/download?build=stable&os=win32-x64-user)
+* [PyCharm](https://www.jetbrains.com/zh-cn/pycharm/download/download-thanks.html?platform=windows)
+* [git](https://github.com/git-for-windows/git/releases/download/v2.52.0.windows.1/Git-2.52.0-64-bit.exe)
+
+## Python 主要版本安装包的下载地址
 
 | 版本                  | 32-bit                                                                        | 64-bit                                                                        | 说明                                          |
 | :-                    | :-                                                                            | :-                                                                            | :-                                            |
