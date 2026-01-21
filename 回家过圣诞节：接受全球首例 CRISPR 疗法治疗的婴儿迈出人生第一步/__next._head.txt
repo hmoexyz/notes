@@ -2,6 +2,6 @@
 2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"bpIJTNv3n5XDU1nC-Wzaw","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"94m4yDtUw2NatujrkOZNv","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"回家过圣诞节：接受全球首例 CRISPR 疗法治疗的婴儿迈出人生第一步 - 在线笔记"}],["$","meta","1",{"name":"description","content":"回家过圣诞节：接受全球首例 CRISPR 疗法治疗的婴儿迈出人生第一步\r转载自：https://interestingengineering.com/culture/first-steps-baby-crispr-gene-therapy 经过一项突破性的基因疗法，一名患有致命疾病的婴儿正在取得曾经"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notes回家过圣诞节：接受全球首例 CRISPR 疗法治疗的婴儿迈出人生第一步"}]]
