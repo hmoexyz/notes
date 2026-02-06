@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"aSXIO63lqy4H57aVJd9Hz","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"sed命令详解 - 在线笔记"}],["$","meta","1",{"name":"description","content":"sed命令详解\r基本概念 sed（Stream EDitor） 是一个强大的流编辑器，用于对输入流（文件或管道）进行基本的文本转换。它逐行处理文本，执行用户指定的编辑命令，然后将结果输出到标准输出。\r基本语法 bash sed [选项] '命令' 输入文件 常用选项\r-n：禁止默认输出，只打印经过处"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notessed"}]]
