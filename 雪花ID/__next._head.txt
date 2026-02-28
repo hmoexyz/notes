@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"Ygl6-GxxuWXqW63pqTFDd","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"雪花ID (Snowflake ID) - 在线笔记"}],["$","meta","1",{"name":"description","content":"雪花ID (Snowflake ID)\r概述 雪花ID是一种分布式系统唯一ID生成算法，由Twitter公司开发并开源。它能够在分布式环境下生成全局唯一的64位长整型ID，适用于高并发场景下的ID生成需求。生成的ID具有以下特点：\r64位整数：兼容各种数据库和系统\r时间有序：按时间递增排序\r分布式唯"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notes雪花ID"}]]

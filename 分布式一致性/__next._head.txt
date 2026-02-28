@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"Ygl6-GxxuWXqW63pqTFDd","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"分布式一致性 - 在线笔记"}],["$","meta","1",{"name":"description","content":"分布式一致性\r概念与背景 分布式一致性是指在分布式系统中，多个节点对数据状态达成共识的过程。随着互联网技术的发展，分布式系统已成为支撑现代IT基础设施的核心架构，从云计算平台到微服务架构都依赖于分布式系统。在这种环境下，如何确保数据在不同节点间保持一致成为关键挑战。\r主要挑战\r网络分区：节点间的网络"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notes分布式一致性"}]]
