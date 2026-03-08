@@ -1,4 +1,4 @@
-# Linux的[`chmod`](https://xplanc.org/primers/document/zh/10.Bash/90.%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C/EX.chmod.md)命令
+# Linux的chmod命令
 
 ## 基本概念
 

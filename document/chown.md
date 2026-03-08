@@ -1,4 +1,4 @@
-# Linux的[`chown`](https://xplanc.org/primers/document/zh/10.Bash/90.%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C/EX.chown.md)命令详解
+# Linux的chown命令
 
 ## 命令概述
 
