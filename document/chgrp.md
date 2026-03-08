@@ -1,4 +1,4 @@
-# Linux的chgrphttps://xplanc.org/primers/document/zh/10.Bash/90.%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C/EX.chgrp.md命令
+# Linux的chgrp命令
 
 Linux的[`chgrp`](https://xplanc.org/primers/document/zh/10.Bash/90.%E5%B8%AE%E5%8A%A9%E6%89%8B%E5%86%8C/EX.chgrp.md)命令是一个用于修改文件或目录所属组的实用工具。以下是扩展后的详细说明：
 
