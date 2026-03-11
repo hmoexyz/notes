@@ -2,6 +2,6 @@
 2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
 4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
 5:"$Sreact.suspense"
-0:{"buildId":"n2KNmb_abU0_UUzkVNvnN","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"ZjlEVmeThdjSLbSL5bHCx","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
 3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
 6:[["$","title","0",{"children":"Linux的chgrp命令 - 在线笔记"}],["$","meta","1",{"name":"description","content":"Linux的chgrp命令 Linux的chgrp命令是一个用于修改文件或目录所属组的实用工具。以下是扩展后的详细说明：\r基本功能 chgrp(change group)命令用于更改文件或目录的所属组，这是Linux文件权限管理的重要组成部分。与chown命令不同，chgrp专门用于修改组所有权而不"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/noteschgrp"}]]
