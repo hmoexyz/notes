@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"mzNLPDsVawS-VPpjHs9SO","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"linux的source命令 - 在线笔记"}],["$","meta","1",{"name":"description","content":"linux的source命令 source是Linux/Unix系统中的一个内置shell命令，用于在当前shell环境中执行指定的脚本文件，而不是在子shell中执行。这个命令对于修改当前shell环境变量特别有用。\r基本语法 bash source filename [arguments] 或者"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notessource"}]]
