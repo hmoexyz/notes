@@ -318,3 +318,81 @@
 | [who](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.who.md) | 查看当前登录的用户 |
 | [whoami](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.whoami.md) | 查看有效用户名 |
 | [yes](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.yes.md) | 持续打印字符串 |
+| [addpart](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.addpart.md) | 添加硬盘分区 |
+| [agetty](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.agetty.md) | 在终端设备上启动登录提示并等待用户登录 |
+| [blkdiscard](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.blkdiscard.md) | 丢弃磁盘设备的区块 |
+| [blkid](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.blkid.md) | 获取块设备的属性 |
+| [blkzone](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.blkzone.md) | 管理和查看分区式（zoned）块设备的 zone 信息 |
+| [blockdev](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.blockdev.md) | 从命令行对块设备调用 `ioctl` |
+| [choom](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.choom.md) | 查看或调整进程的 OOM（Out-Of-Memory）评分 |
+| [chrt](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.chrt.md) | 执行命令时附带调度策略和优先级 |
+| [ctrlaltdel](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.ctrlaltdel.md) | 设置 `Ctrl + Alt + Del` 组合键的功能 |
+| [delpart](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.delpart.md) | 移除硬盘分区 |
+| [dmesg](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.dmesg.md) | 查看系统日志 |
+| [fallocate](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.fallocate.md) | 预分配磁盘空间 |
+| [findfs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.findfs.md) | 查找文件系统 |
+| [findmnt](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.findmnt.md) | 查询文件系统及挂载点 |
+| [flock](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.flock.md) | 锁定文件 |
+| [fsck.cramfs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.fsck.cramfs.md) | 检查并修复 cramfs 文件系统 |
+| [fsck](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.fsck.md) | 检查并修复 Linux 文件系统 |
+| [fsck.minix](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.fsck.minix.md) | 检查并修复 minix 文件系统 |
+| [fsfreeze](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.fsfreeze.md) | 冻结文件系统 |
+| [fstrim](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.fstrim.md) | 修剪文件系统 |
+| [getopt](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.getopt.md) | 解析命令行选项 |
+| [getty](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.getty.md) | 在终端设备上启动登录提示并等待用户登录 |
+| [hardlink](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.hardlink.md) | 合并重复文件 |
+| [i386](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.i386.md) | 使用 i386 架构运行程序 |
+| [ionice](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.ionice.md) | 执行命令时附带 IO 调度策略和优先级 |
+| [isosize](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.isosize.md) | 查看 iso 镜像大小 |
+| [ipcmk](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.ipcmk.md) | 创建进程间通信（IPC）资源 |
+| [ipcrm](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.ipcrm.md) | 删除进程间通信（IPC）资源 |
+| [ipcs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.ipcs.md) | 查看进程间通信（IPC）资源 |
+| [last](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.last.md) | 显示最近登录的用户列表 |
+| [lastb](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lastb.md) | 显示最近登录的用户列表 |
+| [ldattach](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.ldattach.md) | 给终端设备附加一个线路规程 |
+| [linux32](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.linux32.md) | 使用 32 位架构运行程序 |
+| [linux64](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.linux64.md) | 使用 64 位架构运行程序 |
+| [lsblk](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lsblk.md) | 列出块设备 |
+| [lscpu](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lscpu.md) | 列出 CPU 信息 |
+| [lsipc](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lsipc.md) | 列出进程间通信（IPC）设施的信息 |
+| [lslocks](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lslocks.md) | 列出系统中的锁 |
+| [lslogins](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lslogins.md) | 列出系统中的用户信息 |
+| [lsmem](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lsmem.md) | 列出可用内存范围及其在线状态 |
+| [lsns](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.lsns.md) | 列出系统中的命名空间 |
+| [mcookie](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mcookie.md) | 随机生成 cookie |
+| [mesg](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mesg.md) | 是否允许显示来自其它用户的消息 |
+| [mkfs.bfs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.bfs.md) | 创建 bfs 文件系统 |
+| [mkfs.cramfs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.cramfs.md) | 创建 cramfs 文件系统 |
+| [mkfs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.md) | 创建文件系统 |
+| [mkfs.minix](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.minix.md) | 创建 minix 文件系统 |
+| [mkswap](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.mkswap.md) | 创建 swap 区域 |
+| [more](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.more.md) | 分页查看文件内容 |
+| [mountpoint](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mountpoint.md) | 判断挂载点 |
+| [namei](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.namei.md) | 路径检查 |
+| [nsenter](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.nsenter.md) | 进入命名空间 |
+| [partx](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.partx.md) | 编辑分区 |
+| [pivot_root](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.pivot_root.md) | 切换根分区（可恢复） |
+| [prlimit](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.prlimit.md) | 设置进程资源限制 |
+| [readprofile](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.readprofile.md) | 读取内核分析 |
+| [rename.ul](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.rename.ul.md) | 批量重命名文件 |
+| [resizepart](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.resizepart.md) | 通知内核磁盘分区大小改变 |
+| [rev](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.rev.md) | 反转行里的字符 |
+| [rtcwake](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.rtcwake.md) | 进入休眠并在指定时间唤醒 |
+| [runuser](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.runuser.md) | 使用指定的用户和组运行程序 |
+| [setarch](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.setarch.md) | 使用指定的架构或个性化标志运行程序 |
+| [setpriv](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.setpriv.md) | 使用指定的 Linux 特权设置运行程序 |
+| [setsid](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.setsid.md) | 使用新的会话运行程序 |
+| [setterm](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.setterm.md) | 设置终端属性 |
+| [switch_root](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.switch_root.md) | 切换根分区（不可恢复） |
+| [su](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.su.md) | 切换用户 |
+| [sulogin](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.sulogin.md) | 单用户模式登录 |
+| [swaplabel](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.swaplabel.md) | 打印或更改交换区域的标签或 UUID |
+| [taskset](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.taskset.md) | 设置（或获取）进程的 CPU 亲和性 |
+| [uclampset](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.uclampset.md) | 设置系统或进程的 CPU 利用率限制属性 |
+| [unshare](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.unshare.md) | 创建新的命名空间并执行程序 |
+| [utmpdump](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.utmpdump.md) | 查看用户登录日志 |
+| [wdctl](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.wdctl.md) | 查看硬件看门狗的状态 |
+| [whereis](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.whereis.md) | 定位二进制文件、源码文件和手册文件的路径 |
+| [wipefs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.wipefs.md) | 擦除设备的签名 |
+| [x86_64](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.x86_64.md) | 使用 x86_64 架构运行程序 |
+| [zramctl](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.zramctl.md) | 操作 ZRAM 设备 |
