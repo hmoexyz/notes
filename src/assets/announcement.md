@@ -365,7 +365,7 @@
 | [mkfs.cramfs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.cramfs.md) | 创建 cramfs 文件系统 |
 | [mkfs](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.md) | 创建文件系统 |
 | [mkfs.minix](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.minix.md) | 创建 minix 文件系统 |
-| [mkswap](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkfs.mkswap.md) | 创建 swap 区域 |
+| [mkswap](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mkswap.md) | 创建 swap 区域 |
 | [more](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.more.md) | 分页查看文件内容 |
 | [mountpoint](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.mountpoint.md) | 判断挂载点 |
 | [namei](https://xplanc.org/primers/document/zh/10.Bash/90.帮助手册/EX.namei.md) | 路径检查 |
