@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"ViewportBoundary"]
+4:I[97367,["/notes/_next/static/chunks/ff1a16fafef87110.js","/notes/_next/static/chunks/247eb132b7f7b574.js"],"MetadataBoundary"]
+5:"$Sreact.suspense"
+0:{"buildId":"1HBemH6CYzxsRdar3aiyC","rsc":["$","$1","h",{"children":[null,["$","$L2",null,{"children":"$@3"}],["$","div",null,{"hidden":true,"children":["$","$L4",null,{"children":["$","$5",null,{"name":"Next.Metadata","children":"$@6"}]}]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"loading":null,"isPartial":false}
+3:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+6:[["$","title","0",{"children":"C语言-----扫雷游戏 - 在线笔记"}],["$","meta","1",{"name":"description","content":"C语言-----扫雷游戏 扫雷游戏的功能说明 ： • 使⽤控制台实现经典的扫雷游戏 • 游戏可以通过菜单实现继续玩或者退出游戏 • 扫雷的棋盘是9\\9的格⼦ • 默认随机布置10个雷 • 可以排查雷： ◦ 如果位置不是雷，就显⽰周围有⼏个雷 ◦ 如果位置是雷，就炸死游戏结束 ◦ 把除10个雷之外的所"}],["$","meta","2",{"name":"robots","content":"index, follow"}],["$","link","3",{"rel":"canonical","href":"https://hmoexyz.github.io/notes扫雷"}]]
