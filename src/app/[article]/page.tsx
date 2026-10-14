@@ -31,7 +31,7 @@ export async function generateStaticParams() {
 export async function generateMetadata({params}:{params:Promise<PageParams>}): Promise<Metadata> {
     const path = (await params);
     const markdown = await content(decodeURIComponent(path.article) + '.md');
-    const canonical = SITE_CONFIG.origin + SITE_CONFIG.basePath + decodeURIComponent(path.article);
+    const canonical = SITE_CONFIG.origin + SITE_CONFIG.basePath + '/' + decodeURIComponent(path.article);
     
     return {
         title: `${title(markdown)} - ${SITE_CONFIG.brand}`,
